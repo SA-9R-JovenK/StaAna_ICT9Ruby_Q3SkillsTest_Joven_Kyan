@@ -1,1 +1,3 @@
-# StaAna_ICT9Ruby_Q3SkillsTest_Joven_Kyan
+Credits:
+Joven, Kyan: Website Coding and Design
+Licuanan, Manuel: Ideas and Contents
